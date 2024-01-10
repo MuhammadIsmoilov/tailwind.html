@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#but{
+    margin-top: 10px;
+    background-color: #FF9619;
+    color: white;
+    border: none;
+    padding: 7px;
+   margin-left: 150px;
+}
+#but:hover{
+    background-color: gainsboro;
+    color: black;
+}
+#but2{
+    margin-top: 30px;
+    background-color: #FF9619;
+    color: white;
+    border: none;
+    padding: 7px;
+    
+}
+#but2:hover{
+    background-color: gainsboro;
+    color: black;
+}
+i{
+    background-color: white;
+}
